@@ -1,4 +1,4 @@
-package netology.delivery.test;
+package ru.netology.delivery.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
